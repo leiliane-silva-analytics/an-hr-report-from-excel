@@ -45,3 +45,6 @@ This HR analytics dashboard provides crucial insights into employee data that ca
 - Diversity: Analyzing employee characteristics.
 - Equity Pay: Comparing average salaries.
 - Well-being / Cost Management: Monitoring and managing extra hours.
+
+[Watch the demonstration video](an-hr-report-from-excel
+/outputs/HR KPI Excel Demonstration.mp4)
