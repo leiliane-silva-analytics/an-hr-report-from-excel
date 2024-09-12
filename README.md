@@ -45,5 +45,3 @@ This HR analytics dashboard provides crucial insights into employee data that ca
 - Diversity: Analyzing employee characteristics.
 - Equity Pay: Comparing average salaries.
 - Well-being / Cost Management: Monitoring and managing extra hours.
-
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/AANSngyQcGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=AANSngyQcGc)
