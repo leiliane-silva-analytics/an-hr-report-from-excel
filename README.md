@@ -46,4 +46,4 @@ This HR analytics dashboard provides crucial insights into employee data that ca
 - Equity Pay: Comparing average salaries.
 - Well-being / Cost Management: Monitoring and managing extra hours.
 
-[Watch the demonstration video](outputs/HR_KPI_Excel_Demonstration.mp4)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/AANSngyQcGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=AANSngyQcGc)
